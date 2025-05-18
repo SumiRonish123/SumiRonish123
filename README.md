@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SumiRonish123
+- 👋 Hi, I’m @Sumi
 - 👀 I’m interested in Excel Data Analysis
 - 🌱 I’m currently learning Excel
 - 💞️ I’m looking to collaborate on Projects
